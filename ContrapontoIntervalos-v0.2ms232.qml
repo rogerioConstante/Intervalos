@@ -22,7 +22,7 @@ import QtQuick.Window 2.1
 import MuseScore 1.1
 
 MuseScore {
-      menuPath: "Plugins.Contraponto"
+      menuPath: "Plugins.ContrapontoIntervalos"
       description: "Contraponto Intervalos.\nPlugin para analisar e escrever os intervalos em exercícios de contraponto."
       version: "0.1ms232"
 
